@@ -31,7 +31,7 @@ It was built using proper Bootstrap components and grid system.
 
 # Screemshot
 
-
+![](assests/images/screenshot.png)
 
 
 
