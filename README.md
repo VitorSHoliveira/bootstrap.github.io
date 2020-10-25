@@ -31,7 +31,7 @@ It was built using proper Bootstrap components and grid system.
 
 # Screemshot
 
-![] (assets/images/Screen Shot 2020-10-25 at 11.14.55 AM.png)
+![] (../assets/images/Screen Shot 2020-10-25 at 11.14.55 AM.png)
 
 
 
